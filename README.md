@@ -1,6 +1,6 @@
 ### Email Simulator
 
-This Email simulator program is built to help users understand the concept of classes in Python. In this program, users can read emails and see unread emails in a list.
+This Email simulator program is built to understand the concept of classes in Python. It allows users to read emails and see unread emails in a list.
 
 <img src="https://github.com/user-attachments/assets/f8a3a6cb-d7c1-4e92-8ac5-20a09f2d4e76" width="1500" />
 
